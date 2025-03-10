@@ -14,3 +14,5 @@ added tmp commit can del
 another tmp commit can del
 
 another tmp commit can del2
+
+"fitbit_client_secret": "5f31848f605305a5a5c41a37314dfc3a"
